@@ -7,5 +7,7 @@
 body {
 	background: url(intro_bg2.jpg) no-repeat;
 }
-.singup-form { color: #fff;
+.singup-form { 
+	color: #fff;
+	text-align: center;
 }
