@@ -10,10 +10,16 @@ body {
     background-attachment: fixed;
     background-position: center; 
 }
+
+h1 {
+    text-shadow: 2px 2px #ff0000;
+}
+
 .singup-form { 
 	color: #000;
 	text-align: center;
 }
+
 .email {
 	color: #000;
 }
