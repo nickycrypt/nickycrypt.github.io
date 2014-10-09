@@ -8,7 +8,7 @@ body {
 	background: url(baphomet.jpg) no-repeat;
 	background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center; 
+    background-position: 50% 1%; 
 }
 
 h1 {
